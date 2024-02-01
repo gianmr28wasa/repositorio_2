@@ -106,6 +106,6 @@ public class Servlet extends HttpServlet {
 
 	
 	public void prueba() {
-		
+		Integer prueba = 0;
 	}
 }
